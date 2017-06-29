@@ -7,7 +7,7 @@ Boost.Units examples
  * [Boost.Units example 3: creating a Length, Width and Area classes](http://www.github.com/richelbilderbeek/boost_units_example_3)
  * [Boost.Units example 4: creating a Length, Width and Area classes with some typedefs](http://www.github.com/richelbilderbeek/boost_units_example_4)
  * [Boost.Units example 5: averaging multiple lengths](http://www.github.com/richelbilderbeek/boost_units_example_5)
- * [Boost.Units example 6: using an angle](http://www.github.com/richelbilderbeek/boost_units_example_6) 
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/boost_units_example_6.svg?branch=master)](https://travis-ci.org/richelbilderbeek/boost_units_example_6) [Boost.Units example 6: using an angle](http://www.github.com/richelbilderbeek/boost_units_example_6) 
  * [Boost.Units example 7: calculating a force from a mass and an acceleration](http://www.github.com/richelbilderbeek/boost_units_example_7)
  * [Boost.Units example 8: calculating mass from a volume and a mass density](http://www.github.com/richelbilderbeek/boost_units_example_8)
  * [Boost.Units example 9: calculating pressure from a force and an area](http://www.github.com/richelbilderbeek/boost_units_example_9)
